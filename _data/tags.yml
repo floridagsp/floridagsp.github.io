@@ -1,0 +1,16 @@
+hunting:
+  name: hunting
+  description: Hunting with your GSP.
+  cover: assets/images/speeches.jpg
+toys:
+  name: toys
+  description: Our favorite toys
+  cover: False
+training:
+  name: training
+  description: Information on training your GSP, for hunting or not
+  cover: assets/images/fables.jpg
+florida-gsp-info:
+  name: florida-gsp-info
+  description: Important News and Info From Florida GSP
+  cover: False

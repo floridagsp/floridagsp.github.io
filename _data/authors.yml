@@ -1,0 +1,10 @@
+rob:
+  username: rob
+  name: Rob P
+  #url_full: http://jekyller.github.io/jasper2/
+  #url: jekyller.github.io/jasper2
+  bio: GSP Fanatic, Dad, Cook, Coach
+  picture: assets/images/rob.jpg
+  facebook: rob.passante
+  twitter: rpassante
+  cover: False
